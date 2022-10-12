@@ -1,5 +1,796 @@
 {
+ "list1": [{
  "list1": [
+  {
+   "extract1": "DFS Yogurt - Plain\n",
+   "Price": "4100000000L$"
+  },
+  {
+   "extract1": "DFS Plain Cake\n",
+   "Price": "3L$"
+  },
+  {
+   "extract1": "DFS Pork Carcass\n",
+   "Price": "1L$"
+  },
+  {
+   "extract1": "DFS Raw Bacon\n",
+   "Price": "1L$"
+  },
+  {
+   "extract1": "DFS Wooden Post\n",
+   "Price": "11L$"
+  },
+  {
+   "extract1": "DFS Sugar\n",
+   "Price": "1L$"
+  },
+  {
+   "extract1": "DFS Fish\n",
+   "Price": "1L$"
+  },
+  {
+   "extract1": "DFS Deli Pork Loin Steak Raw\n"
+  },
+  {
+   "extract1": "DFS Milk Crate\n",
+   "Price": "2L$"
+  },
+  {
+   "extract1": "DFS Mushroom Basket\n ",
+   "Price": "200L$"
+  },
+  {
+   "extract1": "DFS DS Pure Vodka\n",
+   "Price": "7L$"
+  },
+  {
+   "extract1": "DFS Flour\n",
+   "Price": "1L$"
+  },
+  {
+   "extract1": "DFS Ice Cream Tub - Chocolate\n",
+   "Price": "4L$"
+  },
+  {
+   "extract1": "DFS PD New England Clam Chowder\n",
+   "Price": "6L$"
+  },
+  {
+   "extract1": "DFS Basic Dough\n",
+   "Price": "2L$"
+  },
+  {
+   "extract1": "DFS Noodles\n"
+  },
+  {
+   "extract1": "DFS White Cake\n",
+   "Price": "4L$"
+  },
+  {
+   "extract1": "DFS HW Wicked Old Hag Witch Fingers\n",
+   "Price": "17L$"
+  },
+  {
+   "extract1": "DFS Goat Crate\n",
+   "Price": "2L$"
+  },
+  {
+   "extract1": "DFS Wooden Tray\n",
+   "Price": "9L$"
+  },
+  {
+   "extract1": "DFS Popsicle Tray Mold\n"
+  },
+  {
+   "extract1": "DFS Ice Cream Tub - Watermelon\n",
+   "Price": "4L$"
+  },
+  {
+   "extract1": "DFS Meadery Mead 2022\n",
+   "Price": "15L$"
+  },
+  {
+   "extract1": "DFS Ground Cinnamon\n",
+   "Price": "1L$"
+  },
+  {
+   "extract1": "DFS Chocolate Bar\n",
+   "Price": "2L$"
+  },
+  {
+   "extract1": "DFS Wheat Basket\n",
+   "Price": "2L$"
+  },
+  {
+   "extract1": "DFS Orange Basket\n",
+   "Price": "2L$"
+  },
+  {
+   "extract1": "DFS PD Southern Fried Chicken\n",
+   "Price": "10L$"
+  },
+  {
+   "extract1": "DFS Milk - Goat\n",
+   "Price": "2L$"
+  },
+  {
+   "extract1": "DFS Beer Keg 2022\n",
+   "Price": "10L$"
+  },
+  {
+   "extract1": "DFS Wooden Plank\n",
+   "Price": "11L$"
+  },
+  {
+   "extract1": "DFS Corn Basket\n",
+   "Price": "2L$"
+  },
+  {
+   "extract1": "DFS HW Wart Extract\n",
+   "Price": "25L$"
+  },
+  {
+   "extract1": "DFS Corned Beef\n",
+   "Price": "4L$"
+  },
+  {
+   "extract1": "DFS Cheese\n",
+   "Price": "2L$"
+  },
+  {
+   "extract1": "DFS Oxtail Cuts\n",
+   "Price": "2L$"
+  },
+  {
+   "extract1": "DFS Soda Pop - Cola\n",
+   "Price": "6L$"
+  },
+  {
+   "extract1": "DFS Bread\n",
+   "Price": "2L$"
+  },
+  {
+   "extract1": "DFS Oats Basket\n",
+   "Price": "2L$"
+  },
+  {
+   "extract1": "DFS Cabbage Basket\n",
+   "Price": "2L$"
+  },
+  {
+   "extract1": "DFS Egg Basket\n",
+   "Price": "2L$"
+  },
+  {
+   "extract1": "DFS Honey Jar\n",
+   "Price": "1L$"
+  },
+  {
+   "extract1": "DFS Chicken Pieces\n",
+   "Price": "2L$"
+  },
+  {
+   "extract1": "DFS Grilled Eggplant\n",
+   "Price": "6L$"
+  },
+  {
+   "extract1": "DFS Raw Steak\n",
+   "Price": "1L$"
+  },
+  {
+   "extract1": "DFS Boiled Rice\n",
+   "Price": "2L$"
+  },
+  {
+   "extract1": "DFS Coffee - Breakfast Blend\n",
+   "Price": "3L$"
+  },
+  {
+   "extract1": "DFS Wine Barrel 2022\n",
+   "Price": "14L$"
+  },
+  {
+   "extract1": "DFS Broccoli Basket\n",
+   "Price": "2L$"
+  },
+  {
+   "extract1": "DFS PD Carne Asada\n",
+   "Price": "8L$"
+  },
+  {
+   "extract1": "DFS Water Bucket\n",
+   "Price": "1L$"
+  },
+  {
+   "extract1": "DFS Lobster Bucket\n",
+   "Price": "1L$"
+  },
+  {
+   "extract1": "DFS Gumdrop Candies\n ",
+   "Price": "150L$"
+  },
+  {
+   "extract1": "DFS Shredded Coconut\n",
+   "Price": "2L$"
+  },
+  {
+   "extract1": "DFS Potato Basket\n",
+   "Price": "2L$"
+  },
+  {
+   "extract1": "DFS Jams Lemon\n",
+   "Price": "4L$"
+  },
+  {
+   "extract1": "DFS Ground Beef\n",
+   "Price": "1L$"
+  },
+  {
+   "extract1": "DFS Cucumber Basket\n",
+   "Price": "2L$"
+  },
+  {
+   "extract1": "DFS Rabbit Carcass\n",
+   "Price": "2L$"
+  },
+  {
+   "extract1": "DFS Ketchup\n",
+   "Price": "1L$"
+  },
+  {
+   "extract1": "DFS Honey Graham Crackers\n",
+   "Price": "3L$"
+  },
+  {
+   "extract1": "DFS Nut Basket\n ",
+   "Price": "200L$"
+  },
+  {
+   "extract1": "DFS Duck Crate\n",
+   "Price": "7L$"
+  },
+  {
+   "extract1": "DFS Bread - French\n",
+   "Price": "10L$"
+  },
+  {
+   "extract1": "DFS Rice Basket\n",
+   "Price": "2L$"
+  },
+  {
+   "extract1": "DFS Raw Turkey\n",
+   "Price": "14L$"
+  },
+  {
+   "extract1": "DFS Onion Basket\n",
+   "Price": "2L$"
+  },
+  {
+   "extract1": "DFS Pie Crust\n",
+   "Price": "2L$"
+  },
+  {
+   "extract1": "DFS Butternut Squash Basket\n",
+   "Price": "2L$"
+  },
+  {
+   "extract1": "DFS Ostrich Crate\n",
+   "Price": "10L$"
+  },
+  {
+   "extract1": "DFS PD Maraschino Cherries\n",
+   "Price": "5L$"
+  },
+  {
+   "extract1": "DFS Herb - Herb Basket\n ",
+   "Price": "150L$"
+  },
+  {
+   "extract1": "DFS Olive Basket\n",
+   "Price": "3L$"
+  },
+  {
+   "extract1": "DFS Sweet Potato Basket\n",
+   "Price": "2L$"
+  },
+  {
+   "extract1": "DFS Pear Basket\n",
+   "Price": "2L$"
+  },
+  {
+   "extract1": "DFS Grapes Basket\n",
+   "Price": "2L$"
+  },
+  {
+   "extract1": "DFS Chicken Breast\n",
+   "Price": "2L$"
+  },
+  {
+   "extract1": "DFS Butter\n",
+   "Price": "1L$"
+  },
+  {
+   "extract1": "DFS Tomato Basket\n",
+   "Price": "2L$"
+  },
+  {
+   "extract1": "DFS Cranberry Basket\n",
+   "Price": "2L$"
+  },
+  {
+   "extract1": "DFS Spinach Basket\n",
+   "Price": "2L$"
+  },
+  {
+   "extract1": "DFS Bowl Of Chicken Stock\n",
+   "Price": "4L$"
+  },
+  {
+   "extract1": "DFS Peach Basket\n",
+   "Price": "2L$"
+  },
+  {
+   "extract1": "DFS Cleaned Barley\n",
+   "Price": "2L$"
+  },
+  {
+   "extract1": "DFS Pumpkin\n",
+   "Price": "2L$"
+  },
+  {
+   "extract1": "DFS Vanilla Basket\n",
+   "Price": "2L$"
+  },
+  {
+   "extract1": "DFS Beef Carcass\n",
+   "Price": "1L$"
+  },
+  {
+   "extract1": "DFS Lettuce Basket\n",
+   "Price": "2L$"
+  },
+  {
+   "extract1": "DFS Cream\n",
+   "Price": "1L$"
+  },
+  {
+   "extract1": "DFS Flour Tortilla\n",
+   "Price": "2L$"
+  },
+  {
+   "extract1": "DFS Oil - Sunflower\n",
+   "Price": "4L$"
+  },
+  {
+   "extract1": "DFS Tuna Fillets\n",
+   "Price": "1L$"
+  },
+  {
+   "extract1": "DFS Candy - Box of Chocolates\n",
+   "Price": "6L$"
+  },
+  {
+   "extract1": "DFS Crab Bucket\n",
+   "Price": "1L$"
+  },
+  {
+   "extract1": "DFS Gator Meat\n",
+   "Price": "2L$"
+  },
+  {
+   "extract1": "DFS Bean Basket\n",
+   "Price": "2L$"
+  },
+  {
+   "extract1": "DFS Chicken Leg\n",
+   "Price": "2L$"
+  },
+  {
+   "extract1": "DFS Wax\n",
+   "Price": "2L$"
+  },
+  {
+   "extract1": "DFS Raw Llama Pieces\n",
+   "Price": "2L$"
+  },
+  {
+   "extract1": "DFS Berry Basket\n",
+   "Price": "3L$"
+  },
+  {
+   "extract1": "DFS Icing Strawberry\n",
+   "Price": "3L$"
+  },
+  {
+   "extract1": "DFS Cream Cheese Icing\n",
+   "Price": "3L$"
+  },
+  {
+   "extract1": "DFS Raw Ham\n",
+   "Price": "1L$"
+  },
+  {
+   "extract1": "DFS Fish - Bass\n",
+   "Price": "1L$"
+  },
+  {
+   "extract1": "DFS Icing Lemon\n",
+   "Price": "3L$"
+  },
+  {
+   "extract1": "DFS Icing Mint\n",
+   "Price": "3L$"
+  },
+  {
+   "extract1": "DFS Watermelon Slice\n",
+   "Price": "1L$"
+  },
+  {
+   "extract1": "DFS Fig Basket\n",
+   "Price": "2L$"
+  },
+  {
+   "extract1": "DFS HW Witches Magic Tea Box\n",
+   "Price": "24L$"
+  },
+  {
+   "extract1": "DFS Icing Vanilla\n",
+   "Price": "3L$"
+  },
+  {
+   "extract1": "DFS Icing Blueberry\n",
+   "Price": "3L$"
+  },
+  {
+   "extract1": "DFS Apple Basket\n",
+   "Price": "2L$"
+  },
+  {
+   "extract1": "DFS Wool Basket\n",
+   "Price": "1L$"
+  },
+  {
+   "extract1": "DFS Fabric Bolts\n",
+   "Price": "15L$"
+  },
+  {
+   "extract1": "DFS Stash Book Scrap Kit\n",
+   "Price": "10L$"
+  },
+  {
+   "extract1": "DFS Table Leg\n",
+   "Price": "18L$"
+  },
+  {
+   "extract1": "DFS Chair Back\n",
+   "Price": "20L$"
+  },
+  {
+   "extract1": "DFS Animal Hide\n",
+   "Price": "4L$"
+  },
+  {
+   "extract1": "DFS Cookie - Happy Clouds TLC April 2022\n"
+  },
+  {
+   "extract1": "DFS Hamburger and Fries\n",
+   "Price": "2L$"
+  },
+  {
+   "extract1": "DFS PD Crab Rangoon Takeout\n",
+   "Price": "22L$"
+  },
+  {
+   "extract1": "DFS Mac N Cheese\n",
+   "Price": "5L$"
+  },
+  {
+   "extract1": "DFS Southern Cheesy Grits\n",
+   "Price": "6L$"
+  },
+  {
+   "extract1": "DFS Tortilla Chips\n",
+   "Price": "3L$"
+  },
+  {
+   "extract1": "DFS Roast Chicken\n",
+   "Price": "6L$"
+  },
+  {
+   "extract1": "DFS PD Prime Rib Roast\n",
+   "Price": "6L$"
+  },
+  {
+   "extract1": "DFS TG Cranberry Sauce Platter\n",
+   "Price": "12L$"
+  },
+  {
+   "extract1": "DFS PD Chicken and mushroom pie\n",
+   "Price": "5L$"
+  },
+  {
+   "extract1": "DFS Coffee - Egg Nog\n",
+   "Price": "5L$"
+  },
+  {
+   "extract1": "DFS DS Pure Rum\n",
+   "Price": "8L$"
+  },
+  {
+   "extract1": "DFS Appelflappen Platter\n",
+   "Price": "12L$"
+  },
+  {
+   "extract1": "DFS HW Finger Dippers\n",
+   "Price": "75L$"
+  },
+  {
+   "extract1": "DFS Wedding Cake - Peaches And Cream 19 Li\n"
+  },
+  {
+   "extract1": "DFS Ice Cream Cones\n",
+   "Price": "3L$"
+  },
+  {
+   "extract1": "DFS Strawberry Basket\n",
+   "Price": "2L$"
+  },
+  {
+   "extract1": "DFS Half Cooked Roasted Hog\n",
+   "Price": "16L$"
+  },
+  {
+   "extract1": "DFS Grilled Lamb Chops\n",
+   "Price": "9L$"
+  },
+  {
+   "extract1": "DFS Chicken Eggplant Parmesan Bake\n",
+   "Price": "6L$"
+  },
+  {
+   "extract1": "DFS PD Taco Soup\n",
+   "Price": "3L$"
+  },
+  {
+   "extract1": "DFS Grape Jelly\n",
+   "Price": "1L$"
+  },
+  {
+   "extract1": "DFS Ice Cream Topping - Strawberry\n",
+   "Price": "3L$"
+  },
+  {
+   "extract1": "DFS PD Country Style Green Beans\n",
+   "Price": "9L$"
+  },
+  {
+   "extract1": "DFS Banana Basket\n",
+   "Price": "3L$"
+  },
+  {
+   "extract1": "DFS Herb - Mint Basket\n ",
+   "Price": "6L$"
+  },
+  {
+   "extract1": "DFS Ice Cream Tub - French Vanilla\n",
+   "Price": "4L$"
+  },
+  {
+   "extract1": "DFS PD Jollof Rice\n",
+   "Price": "8L$"
+  },
+  {
+   "extract1": "DFS Nails\n",
+   "Price": "6L$"
+  },
+  {
+   "extract1": "DFS Tea - Black Tea Box\n",
+   "Price": "4L$"
+  },
+  {
+   "extract1": "DFS Carrot Basket\n",
+   "Price": "2L$"
+  },
+  {
+   "extract1": "DFS Pasteis de Bacalhau  Salted Cod Fritters \n"
+  },
+  {
+   "extract1": "DFS Waffle Platter\n",
+   "Price": "6L$"
+  },
+  {
+   "extract1": "DFS French Fries\n",
+   "Price": "3L$"
+  },
+  {
+   "extract1": "DFS Ice Cream Topping - Caramel\n",
+   "Price": "3L$"
+  },
+  {
+   "extract1": "DFS Chilli\n",
+   "Price": "2L$"
+  },
+  {
+   "extract1": "DFS Raw Pork Chops\n",
+   "Price": "1L$"
+  },
+  {
+   "extract1": "DFS Tea - Rosehip Tea Box\n",
+   "Price": "4L$"
+  },
+  {
+   "extract1": "DFS PD Oxtail Stew\n",
+   "Price": "10L$"
+  },
+  {
+   "extract1": "DFS Cannabis - Premium\n",
+   "Price": "2L$"
+  },
+  {
+   "extract1": "DFS Brownie Tray\n",
+   "Price": "10L$"
+  },
+  {
+   "extract1": "DFS Coffee - Caramel Cream Bag\n",
+   "Price": "3L$"
+  },
+  {
+   "extract1": "DFS Coffee - Double Vanilla Cinnamon Bag\n",
+   "Price": "3L$"
+  },
+  {
+   "extract1": "DFS Raw Sausages\n",
+   "Price": "1L$"
+  },
+  {
+   "extract1": "DFS Mashed Potatoes\n",
+   "Price": "3L$"
+  },
+  {
+   "extract1": "DFS Creamy Garlic Parmesan Broccoli & Bacon Soup\n",
+   "Price": "5L$"
+  },
+  {
+   "extract1": "DFS Eggs Benedict Platter\n",
+   "Price": "12L$"
+  },
+  {
+   "extract1": "DFS Wooden Pegs\n",
+   "Price": "4L$"
+  },
+  {
+   "extract1": "DFS Ice Cream Tub - Strawberry\n",
+   "Price": "4L$"
+  },
+  {
+   "extract1": "DFS Lemon Basket\n",
+   "Price": "3L$"
+  },
+  {
+   "extract1": "DFS Lime Basket\n",
+   "Price": "3L$"
+  },
+  {
+   "extract1": "DFS Watermelon\n",
+   "Price": "1L$"
+  },
+  {
+   "extract1": "DFS Ice Cream Topping - Chocolate\n",
+   "Price": "3L$"
+  },
+  {
+   "extract1": "DFS Ice Cream Tub - Mint Chip\n",
+   "Price": "4L$"
+  },
+  {
+   "extract1": "DFS Ice Cream Tub - Pumpkin\n",
+   "Price": "4L$"
+  },
+  {
+   "extract1": "DFS Tea - Daffodil Box\n",
+   "Price": "5L$"
+  },
+  {
+   "extract1": "DFS Winery Fig Dessert Wine 2022\n",
+   "Price": "19L$"
+  },
+  {
+   "extract1": "DFS Ice Cream Tub - Coffee\n",
+   "Price": "4L$"
+  },
+  {
+   "extract1": "DFS Ice Cream Tub - Orange Swirl\n",
+   "Price": "4L$"
+  },
+  {
+   "extract1": "DFS PD Pad Thai Bowl\n",
+   "Price": "8L$"
+  },
+  {
+   "extract1": "DFS Coffee - Dark Chocolate Bag\n",
+   "Price": "3L$"
+  },
+  {
+   "extract1": "DFS Toys - Big Fir Tree - Plain\n",
+   "Price": "12L$"
+  },
+  {
+   "extract1": "DFS Toys - Small Fir Trees - Plain\n",
+   "Price": "25L$"
+  },
+  {
+   "extract1": "DFS PD Baked Stuffed Pumpkins\n",
+   "Price": "10L$"
+  },
+  {
+   "extract1": "DFS Toys - Paddock - Plain\n",
+   "Price": "15L$"
+  },
+  {
+   "extract1": "DFS Orange Marmalade\n",
+   "Price": "3L$"
+  },
+  {
+   "extract1": "DFS Toys - Big Barn - Plain\n",
+   "Price": "25L$"
+  },
+  {
+   "extract1": "DFS Toys - Little Ranch - Plain\n",
+   "Price": "30L$"
+  },
+  {
+   "extract1": "DFS Bowl of Sauerkraut\n",
+   "Price": "3L$"
+  },
+  {
+   "extract1": "DFS Shark Fillets\n",
+   "Price": "1L$"
+  },
+  {
+   "extract1": "DFS HW Grave Toad\n",
+   "Price": "7L$"
+  },
+  {
+   "extract1": "DFS HW Poison Ivy\n",
+   "Price": "10L$"
+  },
+  {
+   "extract1": "DFS Paper\n",
+   "Price": "7L$"
+  },
+  {
+   "extract1": "DFS Wool - Halloween Yarn Skein\n",
+   "Price": "16L$"
+  },
+  {
+   "extract1": "DFS Tea - Lemon Tray\n",
+   "Price": "9L$"
+  },
+  {
+   "extract1": "DFS Tea Cup - Rosehip\n"
+  },
+  {
+   "extract1": "DFS Salmon Fillets\n",
+   "Price": "2L$"
+  },
+  {
+   "extract1": "DFS Cookies - Pecan Sandies\n",
+   "Price": "4L$"
+  },
+  {
+   "extract1": "DFS Harvest Bread\n",
+   "Price": "9L$"
+  },
+  {
+   "extract1": "DFS Lasagna\n",
+   "Price": "11L$"
+  },
+  {
+   "extract1": "DFS Toys - Veggie Patch - Plain\n"
+  }
+ ]
+}
   {
    "extract1": "DFS Yogurt - Plain\n",
    "Price": "4L$"
